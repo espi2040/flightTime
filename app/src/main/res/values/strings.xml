@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FlightTime</string>
+    <string name="menu">Main Menu</string>
+    <string name="create">Create Account</string>
+    <string name="reserve">Reserve Seat </string>
+    <string name="cancel"> Cancel Reservation</string>
+    <string name="manage">Manage </string>
+    <string name="username">User Name</string>
+    <string name="newuser"> Enter in a User Name and Password to create a new user </string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="flightnumber">Flight number</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="Time">Time</string>
+    <string name="capacity">Capacity</string>
+    <string name="price">Price</string>
+    <string name="addflight">Add Flight</string>
+    <string name="departure">Departure time</string>
+    <string name="numberof"> Number of tickets</string>
+    <string name="search">Search</string>
+    <string name="return1">Return to main menu </string>
+    <string name="confirm">Confirm</string>
+    <string name="decline">decline</string>
+    <string name="successlogin">login was successful press okay to continue</string>
+
+
+</resources>
